@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80AA6C</color>
+    <color name="colorPrimaryDark">#4D8432</color>
+    <color name="colorAccent">#9E119E</color>
+    <color name="green">#80AA6C</color>
+    <color name="greenDark">#4D8432</color>
+    <color name="pink">#9E119E</color>
+    <color name="transactionGreen1">#BBCECB</color>
+    <color name="transactionGreen2">#97C5B7</color>
+</resources>
